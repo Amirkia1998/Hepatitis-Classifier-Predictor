@@ -32,16 +32,12 @@ The UCI ML Hepatitis dataset contains information about patients with hepatitis.
 2. Install the required dependencies, including PyQt5, NumPy, Matplotlib, and scikit-learn.
 3. Run the GUI application by executing the main Python file.
 
-![img1.jpg](https://ibb.co/ZLjjyfm)
-
 ## Usage
 
 - Launch the GUI application, which provides options to select classification methods, set parameters, and make predictions.
 - Load your data or use the provided sample dataset.
 - Explore the accuracy of each classifier and predict outcomes for new data.
 - To predict a single patient's outcome, put the patient's data in the `predict.txt` file and use the GUI's prediction functionality.
-
-![img1.jpg](https://ibb.co/RS8N4nn)
 
 ## Predicting a Single Patient
 
@@ -50,8 +46,6 @@ To predict the outcome for a single patient:
 2. Enter the patient's data in the required format.
 3. Save the file.
 4. Use the GUI's prediction feature to predict the outcome for the patient based on the provided data.
-
-![img1.jpg](https://ibb.co/gJRLMQr)
 
 ## Acknowledgments
 
